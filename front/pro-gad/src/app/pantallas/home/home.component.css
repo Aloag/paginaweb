@@ -161,7 +161,7 @@
 
 .card-img-top{
   height: 450px;
-  
+
 }
 
 #uno{
@@ -177,7 +177,7 @@
   grid-template-rows: repeat(2,300px);
 }
 
-.gallery-container .gallery-card{overflow: hidden};
+.gallery-container .gallery-card{overflow: hidden}
 
 .gallery-container .gallery-card a{
   width: 100%;
